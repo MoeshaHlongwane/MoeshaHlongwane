@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moesha Hlongwane! 👋</h1>
-<h3 align="center">Transmission Engineering Intern @ Vodacom | Future Network Engineer | CCNA Candidate</h3>
+<h3 align="center">Transmission Engineering Intern @ Vodacom | Aspiring Network Engineer </h3>
 
 ---
 

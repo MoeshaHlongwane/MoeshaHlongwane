@@ -5,7 +5,7 @@
 
 <h2>🔌 Networking & Transmission Projects I'm Working On:</h2>
 <ul>
-  <li>Small Office Network Design (<a href="https://github.com/MoeshaHlongwane/small-office-network.git">View Project</a>) - Routing, VLANs, DHCP, ACLs</li>
+  <li>Small Office Network Design (<a href="https://github.com/MoeshaHlongwane/small-office-network.git">View Project</a>) - Routing, VLANs, Inter-Vlan Routing, VLSM & CIDR</li>
   <li>VLAN Segmentation & Inter-VLAN Routing Lab (<a href="https://github.com/MoeshaHlongwane/vlan-lab.git">View Project</a>)</li>
   <li>OSPF Single Area + Multi-Area Routing (<a href="https://github.com/MoeshaHlongwane/ospf-lab.git">View Project</a>)</li>
   <li>WAN Simulation: HQ + Branch Office Connectivity (<a href="https://github.com/MoeshaHlongwane/wan-lab.git">View Project</a>)</li>

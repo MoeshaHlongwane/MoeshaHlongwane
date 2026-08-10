@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Moesha Hlongwane! 👋</h1>
+<h1 align="center">Hi, I'm Moesha Hlongwane! </h1>
 <h3 align="center">Transmission Engineering Intern @ Vodacom | Aspiring Network Engineer </h3>
 
 ---
@@ -33,7 +33,6 @@
 <ul>
   <li>Cisco Packet Tracer, GNS3</li>
   <li>Cisco Routers/Switches (2960, 2911)</li>
-  <li>Linux (Ubuntu/Debian)</li>
   <li>Python (network automation basics)</li>
   <li>Network design, routing & switching, VLANs, ACLs, NAT/PAT, OSPF, EIGRP</li>
 </ul>
